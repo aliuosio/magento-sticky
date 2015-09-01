@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Devhh_Sticky>
+            <active>true</active>
+            <codePool>local</codePool>
+            <name>Devhh Sticky</name>
+            <depends>
+                <Mage_Core/>
+            </depends>
+        </Devhh_Sticky>
+    </modules>
+</config>

@@ -1,0 +1,5 @@
+app/code/local/Devhh/Sticky                                     app/code/local/Devhh/Sticky
+app/design/frontend/base/default/layout/devhh_sticky.xml        app/design/frontend/base/default/layout/devhh_sticky.xml
+app/design/frontend/base/default/template/sticky.phtml          app/design/frontend/base/default/template/sticky.phtml
+app/etc/modules/Devhh_Sticky.xml                                app/etc/modules/Devhh_Sticky.xml
+skin/frontend/base/default/devhh-sticky                         skin/frontend/base/default/devhh-sticky

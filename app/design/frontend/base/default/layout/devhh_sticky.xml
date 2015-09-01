@@ -1,0 +1,13 @@
+<layout>
+    <default>
+        <reference name="head">
+            <action method="addItem">
+                <type>skin_css</type>
+                <name>devhh-sticky/css/sticky.css</name>
+            </action>
+        </reference>
+        <reference name="footer">
+            <block type="core/template" name="sticky" template="sticky.phtml" after="footer_links2"/>
+        </reference>
+    </default>
+</layout>

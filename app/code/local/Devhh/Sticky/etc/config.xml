@@ -1,0 +1,16 @@
+<config>
+    <modules>
+        <Devhh_Sticky>
+            <version>0.1.0</version>
+        </Devhh_Sticky>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <topproducts>
+                    <file>devhh_sticky.xml</file>
+                </topproducts>
+            </updates>
+        </layout>
+    </frontend>
+</config>

@@ -1,0 +1,69 @@
+#sticky {
+    position: fixed;
+    top: 198px;
+    right: 0px;
+    width: 53px;
+    border: 1px solid #B3B3B3;
+    border-right: none;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    padding-left: 6px;
+    z-index: 1000;
+    background-color: #FFFFFF;
+}
+
+#sticky span {
+    background-image: url('/skin/frontend/bm/default/images/home-icons.png');
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+#sticky hr {
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: -1px;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #B3B3B3;
+    padding: 0;
+}
+
+#sticky span#sticky-fb {
+    background-position: -11px -244px;
+    margin-top: 20px;
+}
+
+#sticky span#sticky-fb:hover {
+    background-position: -56px -244px;
+}
+
+#sticky span#sticky-pinterest {
+    background-position: -11px -287px;
+}
+
+#sticky span#sticky-pinterest:hover {
+    background-position: -56px -288px;
+}
+
+#sticky span#sticky-instagram {
+    background-position: -11px -335px;
+}
+
+#sticky span#sticky-instagram:hover {
+    background-position: -56px -335px;
+}
+
+#sticky span#sticky-trustedshop {
+    background-position: -11px -379px;
+}
+
+#sticky span#sticky-kontakt {
+    background-position: -11px -422px;
+}
+
+
